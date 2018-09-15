@@ -2,6 +2,6 @@
   "name": "CArLENDAR",
   "description": "A simple node app to generate calendar for your classes",
   "repository": "https://github.com/mashnoon33/CArLENDAR",
-  "logo": "",
+  "logo": "http://acmelogos.com/images/logo-3.svg",
   "keywords": ["node", "express", "ICS","Calendar","Carleton","College"]
 }
