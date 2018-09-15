@@ -1,0 +1,116 @@
+html {
+    font-size: 1em;
+}
+
+
+#tst {
+  /* visibility9: hidden; */
+}
+
+body {
+
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    min-width: 320px;
+    background: #fff;
+    font-family: Lato,
+    'Helvetica Neue',
+    Arial,
+    Helvetica,
+    sans-serif;
+    font-size: 14px;
+    line-height: 1.4285em;
+    /* color: rgba(0, 0, 0, .87); */
+    background-color: white;
+    font-smoothing: antialiased;
+
+}
+
+h1 {
+    text-align: center;
+    color: #1d4537;
+}
+
+#main {
+    margin-top: 20%
+}
+
+
+.default {
+    color: red;
+}
+
+
+
+#title {}
+
+
+
+.item {}
+
+  .yourDiv{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+      flex-wrap: wrap;
+  }
+
+
+  #container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+#gg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100  px; */
+  width: 100%;
+}
+
+
+
+#down {
+  width: 218px;
+}
+#sar {
+    width: 100%;
+    /*    max-width: 500px;*/
+}
+
+
+
+.field {
+    text-align: center;
+}
+
+.flex-parent {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-child {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttonHolder {
+
+    text-align: center;
+    margin: 15px;
+
+}
+
+
+/* BG*/
