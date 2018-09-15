@@ -11,7 +11,4 @@ You can try the live version @ http://carlendar.mash.studio
 
 or you can deploy your own copy using Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mashnoon33/CArLENDAR)
