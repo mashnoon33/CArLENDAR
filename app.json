@@ -1,0 +1,7 @@
+{
+  "name": "CArLENDAR",
+  "description": "A simple node app to generate calendar for your classes",
+  "repository": "https://github.com/mashnoon33/CArLENDAR",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "ICS","Calendar","Carleton","College"]
+}
